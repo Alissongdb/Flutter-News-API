@@ -1,16 +1,11 @@
-# news_api
+# News_api
 
-A new Flutter project.
+Busca dos dados da API News API e apresenta em tela.
 
-## Getting Started
+package: http
 
-This project is a starting point for a Flutter application.
+Arquitetura> MVC
 
-A few resources to get you started if this is your first Flutter project:
+![Uploading image.png…]()
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
